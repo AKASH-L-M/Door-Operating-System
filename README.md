@@ -32,5 +32,6 @@ A computer graphics project on building a GUI of a Operating System.
 ![shuttingDown](https://user-images.githubusercontent.com/91725049/170390180-bf3d6848-4cf8-4fae-85c0-11bbdb2f5ef5.jpg)
 
 
-
+<br>
+Thank you
 
