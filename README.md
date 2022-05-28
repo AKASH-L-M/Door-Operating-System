@@ -1,6 +1,8 @@
 # Door-Operating-System
 A computer graphics project on building a GUI of a Operating System.
-
+<br>
+Code is in test Directory.
+Refactoring of Code is to be implemented.
 <br>Screen Shots
   <br>
 ![intro](https://user-images.githubusercontent.com/91725049/170389978-4bb6338f-0045-489b-ab1c-7fa4e092169f.jpg)
