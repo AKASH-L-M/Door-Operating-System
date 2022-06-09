@@ -4,6 +4,26 @@ A Computer Graphics project on building a GUI of a Operating System.
 Code is in test Directory.
 Refactoring of Code is to be implemented.
 
+Description
+Topic: Door Operating System
+Here in this project we are emulating GUI of Operating System using OpenGL (Open GL is a software interface to graphics hardware.)
+Open GL is a cross-language, cross-platform application programming interface (API) for rendering 2D and 3D vector graphics.
+
+Features :
+      1) Used Keyboard Interaction -> F1 : Display Mode, Esc : Exit , 1 : Intro, 2 : Synopsis, 3 : Boot
+      2) Used Mouse Interaction -> To refresh, Open a directory, To lock screen, To turn OFF, so on...
+
+Extra Features Included : 
+          Time(Format : Day Month Date Time Year 
+          Start Menu.
+          Drop Down Options
+          Background Music
+          Double Click Functionality
+          Two Way Authentication
+              -> on Click
+              -> Use Password
+          Takes Screenshot by itslef.
+
 ## Screenshots
 ![intro](https://user-images.githubusercontent.com/91725049/170389978-4bb6338f-0045-489b-ab1c-7fa4e092169f.jpg)
 
