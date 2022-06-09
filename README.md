@@ -13,16 +13,16 @@ Features :<br>
             1) Used Keyboard Interaction -> F1 : Display Mode, Esc : Exit , 1 : Intro, 2 : Synopsis, 3 : Boot<br>
             2) Used Mouse Interaction -> To refresh, Open a directory, To lock screen, To turn OFF, so on...
 
-Extra Features Included : 
-          Time(Format : Day Month Date Time Year 
-          Start Menu.
-          Drop Down Options
-          Background Music
-          Double Click Functionality
-          Two Way Authentication
-              -> on Click
-              -> Use Password
-          Takes Screenshot by itslef.
+<b>Extra Features Included :</b> <br>
+          Time(Format : Day Month Date Time Year <br>
+          Start Menu.<br>
+          Drop Down Options<br>
+          Background Music<br>
+          Double Click Functionality<br><br>
+          Two Way Authentication<br>
+              -> on Click<br>
+              -> Use Password<br><br>
+          Takes Screenshot by itslef.<br><br>
 
 ## Screenshots
 ![intro](https://user-images.githubusercontent.com/91725049/170389978-4bb6338f-0045-489b-ab1c-7fa4e092169f.jpg)
