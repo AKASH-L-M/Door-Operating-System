@@ -2,7 +2,7 @@
 <h2>A Computer Graphics project on building a GUI of a Operating System.</h2>
 <br>
 Code is in test Directory.
-Refactoring of Code is to be implemented.
+Code is to be refactored.
 <br><br>
 Description<br>
 <b>Topic: Door Operating System</b><br>
